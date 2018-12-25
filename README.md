@@ -66,7 +66,7 @@
 
 [03 滕昱 - 为流处理世界重新设计的存储](https://files.alicdn.com/tpsservice/8c72901db4a4bda83e33d35b8e6d0ecd.pdf)
 
-> [04 不公开]
+> 04 冯嘉 - 轻量级消息流计算平台探索实践【不公开】
 
 > [05 任春德 / 石春晖 - Deploy Apache Flink Natively on YARN_Kubernetes](https://files.alicdn.com/tpsservice/e548113c892561c49d55e01287a68802.pdf)
 
