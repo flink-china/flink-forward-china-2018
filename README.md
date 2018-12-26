@@ -77,6 +77,8 @@
 
 [01 姜春宇 - 以标准推动开源技术在行业的落地](https://files.alicdn.com/tpsservice/13039399808974a7c40be0c5d671061e.pdf)
 
+> [02 石春晖 - Columnar Execution for Apache Flink Batch](https://files.alicdn.com/tpsservice/15d6d7236e6e29047500b3b25432e6bb.pdf)
+
 [03 陈华曦 - 基于Apache Flink的搜索处理平台](https://files.alicdn.com/tpsservice/8dab3c208f8044a26937a7bd7aed3c3d.pdf)
 
 > [04 訚赛华 - 袋鼠云基于实时计算的反黄牛算法](https://files.alicdn.com/tpsservice/65149b8dc2643415c0a10878195d38b2.pdf)
