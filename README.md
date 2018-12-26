@@ -6,7 +6,7 @@
 
 [03 蒋晓伟 - Apache Flink® - Redefining Computation](https://files.alicdn.com/tpsservice/62fa5ebcd23ea0b8a956f2a06197b57a.pdf )
 
-> [04 Stephan Ewen - Stream Processing takes on Everything](https://files.alicdn.com/tpsservice/9759cf4877c51e0c5aec6244cfe399b0.pdf)
+[04 Stephan Ewen - Stream Processing takes on Everything](https://files.alicdn.com/tpsservice/9759cf4877c51e0c5aec6244cfe399b0.pdf)
 
 [05 闵万里 - 城市级实时计算的力量](https://files.alicdn.com/tpsservice/5f3272c3212b77cd835ff020d9954480.pdf)
 
@@ -25,22 +25,22 @@
 
 [05 施晓罡 / 郑灿彬 - 基于Apache Flink的平台化构建及运维优化经验](https://files.alicdn.com/tpsservice/9bcc469feb3dcca4ea15226e70e23ed5.pdf)
 
-> [06 马国维 / 陶阳宇 - Runtime Improvements for Flink as a Unified Engine](https://files.alicdn.com/tpsservice/8510c65ffa1fde57274595c5bb009347.pdf)
+[06 马国维 / 陶阳宇 - Runtime Improvements for Flink as a Unified Engine](https://files.alicdn.com/tpsservice/8510c65ffa1fde57274595c5bb009347.pdf)
 
 
 ### 分会场二 [视频](https://yq.aliyun.com/live/702)
 
 [01 Radu Tudoran - Flink Forward China 2018](https://files.alicdn.com/tpsservice/3d836d6366a800dc70f52a0ec0bb5bc5.pdf)
 
-> [02 Konstantin Knauf - Apache Flink® 1.7 and Beyond](https://files.alicdn.com/tpsservice/7d9e8f6cddc390eca132b0ae46722940.pdf)
+[02 Konstantin Knauf - Apache Flink® 1.7 and Beyond](https://files.alicdn.com/tpsservice/7d9e8f6cddc390eca132b0ae46722940.pdf)
 
 [03 李峰 - FLINK在大规模实时无效广告流量检测中的应用](https://files.alicdn.com/tpsservice/c429c9351675f89a56000489519135a8.pdf)
 
-> [04 Piotr Nowojsk - Flink Streaming SQL 2018](https://files.alicdn.com/tpsservice/7038d8f09f58512171750ffe4a6f63c4.pdf)
+[04 Piotr Nowojsk - Flink Streaming SQL 2018](https://files.alicdn.com/tpsservice/7038d8f09f58512171750ffe4a6f63c4.pdf)
 
 [05 孟文瑞 / 于淼 - Uber 商业性能指标生成与管理](https://files.alicdn.com/tpsservice/9bf841f251392aedcbb7cc98c5d140fa.pdf)
 
-> [06 戴资力 - Apache Flink 流式应用中状态的数据结构定义升级](https://files.alicdn.com/tpsservice/d9fde10f25b061916eab468ac2c1fc47.pdf)
+[06 戴资力 - Apache Flink 流式应用中状态的数据结构定义升级](https://files.alicdn.com/tpsservice/d9fde10f25b061916eab468ac2c1fc47.pdf)
 
 
 ### 分会场三 [视频](https://yq.aliyun.com/live/704)
@@ -66,9 +66,9 @@
 
 [03 滕昱 - 为流处理世界重新设计的存储](https://files.alicdn.com/tpsservice/8c72901db4a4bda83e33d35b8e6d0ecd.pdf)
 
-> 04 冯嘉 - 轻量级消息流计算平台探索实践【不公开】
+04 冯嘉 - 轻量级消息流计算平台探索实践【不公开】
 
-> [05 任春德 / 石春晖 - Deploy Apache Flink Natively on YARN_Kubernetes](https://files.alicdn.com/tpsservice/e548113c892561c49d55e01287a68802.pdf)
+[05 任春德 / 石春晖 - Deploy Apache Flink Natively on YARN_Kubernetes](https://files.alicdn.com/tpsservice/e548113c892561c49d55e01287a68802.pdf)
 
 [06 徐骁 - Apache Flink 和 Elasticsearch 助⼒实时 OLAP 平台](https://files.alicdn.com/tpsservice/44558decf0f39980283107647d1e5755.pdf)
 
@@ -77,11 +77,11 @@
 
 [01 姜春宇 - 以标准推动开源技术在行业的落地](https://files.alicdn.com/tpsservice/13039399808974a7c40be0c5d671061e.pdf)
 
-> [02 石春晖 - Columnar Execution for Apache Flink Batch](https://files.alicdn.com/tpsservice/15d6d7236e6e29047500b3b25432e6bb.pdf)
+[02 石春晖 - Columnar Execution for Apache Flink Batch](https://files.alicdn.com/tpsservice/15d6d7236e6e29047500b3b25432e6bb.pdf)
 
 [03 陈华曦 - 基于Apache Flink的搜索处理平台](https://files.alicdn.com/tpsservice/8dab3c208f8044a26937a7bd7aed3c3d.pdf)
 
-> [04 訚赛华 - 袋鼠云基于实时计算的反黄牛算法](https://files.alicdn.com/tpsservice/65149b8dc2643415c0a10878195d38b2.pdf)
+[04 訚赛华 - 袋鼠云基于实时计算的反黄牛算法](https://files.alicdn.com/tpsservice/65149b8dc2643415c0a10878195d38b2.pdf)
 
 [05 倪春恩 - Apache Kylin:大数据OLAP利器](https://files.alicdn.com/tpsservice/4a21d431d914e85b0edced063dbc40ff.pdf)
 
